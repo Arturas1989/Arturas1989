@@ -14,6 +14,8 @@
   <a href="https://www.codingame.com/profile/a274f4dfc2a439690436c259e7ab3fbf5153964"><img src="https://i.ibb.co/yn4Xtqv/codingame-badge.jpg" width="130" alt="codingame-badge"></a><br />
 </div>
 
+
+
 ## Introduction
 
 I'm a full-stack web developer from Lithuania. My motto is: never stop learning and improving. Every day, I'm trying to learn something new. Currently, I'm exploring React.
@@ -37,9 +39,11 @@ Collaborating deployed projects:
 - [neuron](https://front-end-by-rimantas.github.io/21-grupe-portfolio-neuron/)
 
 #### GitHub stats 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arturas1989&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>
+
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arturas1989&show_icons=true&count_private=true" alt="Commit info">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arturas1989&show_icons=true&locale=en&layout=compact" alt="most used languages" />
+</div>
 
 ## My skills 📜
 
