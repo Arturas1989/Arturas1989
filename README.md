@@ -13,7 +13,6 @@
   </a>
   <a href="https://www.codingame.com/profile/a274f4dfc2a439690436c259e7ab3fbf5153964"><img src="https://i.ibb.co/yn4Xtqv/codingame-badge.jpg" width="130" alt="codingame-badge"></a><br />
 </div>
-</br>
 
 ## Introduction
 
