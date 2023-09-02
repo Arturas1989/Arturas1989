@@ -15,6 +15,7 @@
 </div>
 </br>
 
+## Introduction
 
 I'm a full-stack web developer from Lithuania. My motto is: never stop learning and improving. Every day, I'm trying to learn something new. Currently, I'm exploring React.
 
