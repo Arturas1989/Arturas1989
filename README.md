@@ -42,7 +42,7 @@ Collaborating deployed projects:
 
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Arturas1989&show_icons=true&count_private=true" alt="Commit info">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arturas1989&show_icons=true&locale=en&layout=compact" alt="most used languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arturas1989&show_icons=true&locale=en&layout=compact" alt="most used languages" width="355" />
 </div>
 
 ## My skills 📜
