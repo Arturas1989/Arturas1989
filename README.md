@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ftXMlzefZ1FCzFhLu4/giphy.gif" width="200" alt="programmers-gif"/>
+  <img src="https://media.giphy.com/media/ftXMlzefZ1FCzFhLu4/giphy.gif" width="350" alt="programmers-gif"/>
 </div>
 
 <div id="badges" align="center">
