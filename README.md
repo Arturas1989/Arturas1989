@@ -1,5 +1,7 @@
 # Hi everyone :wave:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arturas1989&label=Profile%20views&color=0e75b6&style=flat" alt="Arturas1989" /> </p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ftXMlzefZ1FCzFhLu4/giphy.gif" width="350" alt="programmers-gif"/>
 </div>
