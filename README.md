@@ -42,9 +42,15 @@ Collaborating deployed projects:
 
 <h2>GitHub stats</h2>
 
-![Arturas1989's Stats](https://github-readme-stats.vercel.app/api?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Arturas1989's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arturas1989&theme=onedark)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"  alt="Arturas1989's Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"  width=357 alt="Arturas1989's Top Languages">
+
+
+
+<!-- ![Arturas1989's Stats](https://github-readme-stats.vercel.app/api?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+<!-- ![Arturas1989's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 <h2>My skills 📜</h2>
 
