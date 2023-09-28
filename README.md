@@ -43,7 +43,6 @@ Collaborating deployed projects:
 <h2>GitHub stats</h2>
 
 ![Arturas1989's Stats](https://github-readme-stats.vercel.app/api?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Arturas1989's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arturas1989&theme=vue-dark&hide_border=true)
 ![Arturas1989's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <h2>My skills 📜</h2>
