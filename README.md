@@ -1,4 +1,4 @@
-# Hi everyone :wave:
+<h1>Hi everyone :wave:</h1> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arturas1989&label=Profile%20views&color=0e75b6&style=flat" alt="Arturas1989" /> </p>
 
@@ -18,17 +18,17 @@
 
 
 
-## Introduction
+<h2>Introduction</h2> 
 
 I'm a full-stack web developer from Lithuania. My motto is: never stop learning and improving. Every day, I'm trying to learn something new. Currently, I'm exploring React.
 
-## 📫 How to reach me: 
+<h2>📫 How to reach me: </h2> 
 <a href="https://www.linkedin.com/in/art%C5%ABras-drozdovas-2a76ba201/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="110" alt="LinkedIn Badge"/>
   </a>
 <a href="https://discord.com/users/494713592105664514/"><img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="39" alt="discord-badge"></a>
 
-## Project overview
+<h2>Project overview</h2> 
 
 Some of my deployed pinned projects:
 
@@ -40,16 +40,16 @@ Collaborating deployed projects:
 
 - [neuron](https://front-end-by-rimantas.github.io/21-grupe-portfolio-neuron/)
 
-#### GitHub stats 
+<h2>GitHub stats</h2>  
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Arturas1989&show_icons=true&count_private=true" alt="Commit info">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arturas1989&show_icons=true&locale=en&layout=compact" alt="most used languages" width="355" />
 </p>
 
-## My skills 📜
+<h2>My skills 📜</h2>
 
-### Web technologies
+<h3>Web technologies</h3>
 
 - HTML, CSS
 - JavaScript
