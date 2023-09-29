@@ -42,10 +42,13 @@ Collaborating deployed projects:
 
 <h2>GitHub stats</h2>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arturas1989)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"  alt="Arturas1989's Stats">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Arturas1989)"  width=469  alt="Arturas1989's Streak"> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"  width=469  alt="Arturas1989's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Arturas1989&show_icons=true&hide_border=true&count_private=true" width=495  alt="Arturas1989's Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturas1989&show_icons=true&hide_border=true&layout=compact"  width=495  alt="Arturas1989's Top Languages">
 
 <h2>My skills 📜</h2>
 
