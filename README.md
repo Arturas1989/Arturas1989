@@ -32,9 +32,8 @@ I'm a full-stack web developer from Lithuania. My motto is: never stop learning 
 
 Some of my deployed pinned projects:
 
+- [chess_game](https://arturas1989.github.io/chess_game/)
 - [movie_posters](https://arturas1989.github.io/movie_posters/)
-- [tic_tac_toe](https://arturas1989.github.io/tic_tac_toe/)
-- [search_engine](https://arturas1989.github.io/search_engine/)
 
 Collaborating deployed projects:
 
