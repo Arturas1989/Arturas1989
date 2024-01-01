@@ -35,10 +35,8 @@ Collaborating deployed projects:
 
 <h2>My skills 📜</h2>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/art%C5%ABras-drozdovas-2a76ba201/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="LinkedIn Badge"/>
-  </a>
+<h3>Problem solving</h3>
+<div id="badges">
   <a href="https://www.codewars.com/users/Arturas1989">
     <img src="https://www.codewars.com/users/Arturas1989/badges/micro" width="150" alt="Codewars Badge"/>
   </a>
