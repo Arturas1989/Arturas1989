@@ -8,7 +8,10 @@
 
 <h2>Introduction</h2> 
 
-I'm a full-stack web developer from Lithuania. My motto is: never stop learning and improving. Every day, I'm trying to learn something new. Currently, I'm exploring React.
+I'm a full-stack web developer from Lithuania. 
+
+- Currently, I'm learning React and Typescript.
+- Looking to collaborate on React TS/JS projects.
 
 <h2>📫 How to reach me: </h2> 
 <a href="https://www.linkedin.com/in/art%C5%ABras-drozdovas-2a76ba201/">
