@@ -24,7 +24,6 @@ I'm a full-stack web developer from Lithuania.
 Some of my deployed pinned projects:
 
 - [chess_game](https://arturas1989.github.io/chess_game/)
-- [movie_posters](https://arturas1989.github.io/movie_posters/)
 
 Collaborating deployed projects:
 
