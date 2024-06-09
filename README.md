@@ -24,7 +24,7 @@ I'm a full-stack web developer from Lithuania.
 Some of my deployed pinned projects:
 
 - [chess_game](https://arturas1989.github.io/chess_game/)
-- [HolidayPayPro](https://master--holiday-pay-pro.netlify.app/)
+- [HolidayPayPro](https://holiday-pay-pro.netlify.app/)
 
 Collaborating deployed projects:
 
