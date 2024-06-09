@@ -49,17 +49,20 @@ Collaborating deployed projects:
 <h4>GitHub stats</h4>
 
 <p>
-  <img width="800" src="https://streak-stats.demolab.com?user=Arturas1989&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="705" src="https://streak-stats.demolab.com?user=Arturas1989&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
 
-<p><img width="800" src="https://github-readme-stats.vercel.app/api?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"   alt="Arturas1989's Stats"></p>
+<p>
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"   alt="Arturas1989's Stats">
+<img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"  alt="Arturas1989's Top Languages">
+</p>
 
-<p><img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"  alt="Arturas1989's Top Languages"></p>
+<p></p>
 
 
 
 <p>
- <img width="800" src="assets/github-snake.svg" alt="snake"/>
+ <img width="705" src="assets/github-snake.svg" alt="snake"/>
 </p>
