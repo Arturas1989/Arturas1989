@@ -48,18 +48,18 @@ Collaborating deployed projects:
 
 <h4>GitHub stats</h4>
 
-<p align="center">
+<p>
   <img width="800" src="https://streak-stats.demolab.com?user=Arturas1989&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"   alt="Arturas1989's Stats">
+<p><img width="800" src="https://github-readme-stats.vercel.app/api?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"   alt="Arturas1989's Stats"></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"  width=468  alt="Arturas1989's Top Languages">
+<p><img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturas1989&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"  alt="Arturas1989's Top Languages"></p>
 
 
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+<p>
+ <img width="800" src="assets/github-snake.svg" alt="snake"/>
 </p>
