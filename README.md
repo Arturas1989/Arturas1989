@@ -21,6 +21,7 @@ Some of my deployed pinned projects:
 
 - [chess_game](https://arturas1989.github.io/chess_game/)
 - [HolidayPayPro](https://holiday-pay-pro.netlify.app/)
+- [e-shop](https://ecompulse.netlify.app/)
 
 Collaborating deployed projects:
 
