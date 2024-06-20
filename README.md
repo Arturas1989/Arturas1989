@@ -23,10 +23,6 @@ Some of my deployed pinned projects:
 - [HolidayPayPro](https://holiday-pay-pro.netlify.app/)
 - [e-shop](https://ecompulse.netlify.app/)
 
-Collaborating deployed projects:
-
-- [neuron](https://front-end-by-rimantas.github.io/21-grupe-portfolio-neuron/)
-
 <h2>My skills 📜</h2>
 
 <h3>Web technologies</h3>
