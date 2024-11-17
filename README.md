@@ -19,6 +19,7 @@ I'm a full-stack web developer from Lithuania.
 
 Some of my deployed pinned projects:
 
+- [ManoNT](https://mano-nt.lt/)
 - [chess_game](https://arturas1989.github.io/chess_game/)
 - [HolidayPayPro](https://holiday-pay-pro.netlify.app/)
 - [e-shop](https://ecompulse.netlify.app/)
