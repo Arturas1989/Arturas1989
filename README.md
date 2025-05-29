@@ -21,7 +21,7 @@ Some of my deployed pinned projects:
 
 - [ManoNT](https://mano-nt.lt/)
 - [chess_game](https://arturas1989.github.io/chess_game/)
-- [HolidayPayPro](https://holiday-pay-pro.netlify.app/)
+- [HolidayPayPro](https://maxatostoginiai.netlify.app/)
 - [e-shop](https://ecompulse.netlify.app/)
 - [hangman](https://arturas1989.github.io/hangman/)
 
