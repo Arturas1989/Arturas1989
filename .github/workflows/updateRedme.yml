@@ -8,9 +8,16 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README with WakaTime Card
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master 
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Commit WakaTime Card Update
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "chore: update wakatime card" || echo "No changes to commit"
+          git push

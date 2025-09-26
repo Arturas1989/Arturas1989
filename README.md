@@ -46,8 +46,7 @@ Some of my deployed pinned projects:
 </div>
 
 <h4>Wakatime stats</h4>
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+ ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arturas1989&range=all_time&hide_title=false&layout=compact&langs_count=20&theme=ocean_dark&border_color=b0a0cc)
 
 <h5>GitHub stats</h5>
 
