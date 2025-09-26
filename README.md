@@ -47,6 +47,15 @@ Some of my deployed pinned projects:
 
 <h4>Wakatime stats</h4>
  <!--START_SECTION:waka-->
+
+```txt
+TypeScript           2 hrs 52 mins   █████████████▓░░░░░░░░░░░   55.31 %
+JavaScript           1 hr 19 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
+Blade Template       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Vue.js               16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+PHP                  13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+```
+
 <!--END_SECTION:waka-->
 
 <h5>GitHub stats</h5>
