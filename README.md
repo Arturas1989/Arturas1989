@@ -45,7 +45,11 @@ Some of my deployed pinned projects:
   <a href="https://www.codingame.com/profile/a274f4dfc2a439690436c259e7ab3fbf5153964"><img src="https://i.ibb.co/yn4Xtqv/codingame-badge.jpg" width="130" alt="codingame-badge"></a><br />
 </div>
 
-<h4>GitHub stats</h4>
+<h4>Wakatime stats</h4>
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<h5>GitHub stats</h5>
 
 <p>
   <img width="705" src="https://streak-stats.demolab.com?user=Arturas1989&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
