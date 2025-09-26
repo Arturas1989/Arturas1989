@@ -45,7 +45,9 @@ Some of my deployed pinned projects:
   <a href="https://www.codingame.com/profile/a274f4dfc2a439690436c259e7ab3fbf5153964"><img src="https://i.ibb.co/yn4Xtqv/codingame-badge.jpg" width="130" alt="codingame-badge"></a><br />
 </div>
 
-<figure><embed src="https://wakatime.com/share/@Arturas1989/ac9940e5-efd0-49ce-b91e-8427a393ebd6.svg"></embed></figure>
+<h4>Wakatime stats</h4>
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h5>GitHub stats</h5>
 
