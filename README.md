@@ -49,7 +49,8 @@ Some of my deployed pinned projects:
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js   24 mins               ████████████████████████▓   99.09 %
+JSON     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
