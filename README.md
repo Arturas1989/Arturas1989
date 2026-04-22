@@ -49,10 +49,10 @@ Some of my deployed pinned projects:
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 27 mins          █████████████▓░░░░░░░░░░░   54.55 %
-PHP          53 mins               ████████▒░░░░░░░░░░░░░░░░   33.38 %
-Vue          14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-JSON         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+PHP          53 mins               █████████████░░░░░░░░░░░░   52.06 %
+TypeScript   30 mins               ███████▒░░░░░░░░░░░░░░░░░   29.28 %
+Vue          14 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+JSON         4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
