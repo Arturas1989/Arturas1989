@@ -49,11 +49,7 @@ Some of my deployed pinned projects:
  <!--START_SECTION:waka-->
 
 ```txt
-Vue              57 mins               ████████████▒░░░░░░░░░░░░   49.64 %
-CSS              27 mins               ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-TypeScript       15 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-TSConfig         5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Blade Template   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
