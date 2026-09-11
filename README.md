@@ -46,6 +46,11 @@ Some of my deployed pinned projects:
 
 <h4>Wakatime stats</h4>
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <h5>GitHub stats</h5>
